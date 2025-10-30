@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "934167988570",
+    "project_id": "ezbbudgetapp",
+    "storage_bucket": "ezbbudgetapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934167988570:android:6a1bf7ac470056d29ccb63",
+        "android_client_info": {
+          "package_name": "com.iiestudents.prog7313_poe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrMLOuLOdfClNrYZTSaRMAH0v6lsZGC_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
